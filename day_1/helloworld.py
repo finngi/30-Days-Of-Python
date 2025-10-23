@@ -28,4 +28,5 @@ p = (2, 3)
 q = (10, 8)
 
 euclidean_distance = math.sqrt((p[0] - q[0])**2 + (p[1] - q[1])**2)
+
 print(f"Euclidean distance between {p} and {q} is {euclidean_distance}")
